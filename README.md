@@ -11,7 +11,7 @@
 + die meisten hier erwähnten settings sind unter substitutions einzustellen
 + led's werden nach definierter zeit abgeschalten
 + mqtt wird nur versendet, wenn led's farbe ändern
-+ die entfernungen für jede ampelfarbe muss eingestellt werden
++ die entfernungen für die ampelfarben muss eingestellt werden
 ```
 die farben sind leider durch die kamera nicht gut zu erkennen :-(
 
