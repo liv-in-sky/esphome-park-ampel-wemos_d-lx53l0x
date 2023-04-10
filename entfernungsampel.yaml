@@ -21,7 +21,7 @@ wifi:
 
 # enable logging
 logger:
- # level: INFO    # log abschalten/minmieren
+  level: INFO    # log abschalten/minmieren
   
 # enable Home Assistant API
 api:
