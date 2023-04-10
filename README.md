@@ -3,7 +3,7 @@
 - hierbei handelt es sich um eine entfernungsmessung als einparkhilfe (park hilfe/parking assistent)
 - die anzeige folgt über 3 leds oder einem **ws2812b** led-stripe (6 leds)
 - gebraucht wird ein wemos d1
-- der entfernungsmesser ist ein **vl53l0x** sensor - es müßte auch für sr04 nutzbar sein 
+- der entfernungsmesser ist ein **vl53l0x** sensor - es müßte auch für sr04 nutzbar sein, wenn umgeschrieben
 - wird in iobroker genutzt und sendet mqtt daten (daher universelleinsetzbar
 
 **wie funktioniert's ?:**
@@ -17,3 +17,12 @@ die farben sind leider durch die kamera nicht gut zu erkennen :-(
 
 ![script-vis38](https://user-images.githubusercontent.com/18462890/230928555-8c46efa4-f9e0-46fa-9033-b080795d0e93.gif)
 
+**pin anschlüsse:**
+```diff
++ LED's
+D3: rote led
+D4: grüne led
+D5: gelbe led
++ WS2812B
+GPIO3: steuerkanal
+```
