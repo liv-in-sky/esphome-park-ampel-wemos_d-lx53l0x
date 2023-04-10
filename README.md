@@ -27,4 +27,5 @@ D5: gelbe led
 GPIO3: steuerkanal
 ```
 
-![script-vis39](https://user-images.githubusercontent.com/18462890/230932335-558915be-6298-4a04-b3b3-6d22b3f7b133.gif)
+![script-vis39](https://user-images.githubusercontent.com/18462890/230932528-7ad4125b-9e69-4034-8d14-4ef8dbd3b2ac.gif)
+
