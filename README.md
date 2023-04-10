@@ -12,6 +12,7 @@
 + led's werden nach definierter zeit abgeschalten
 + mqtt (distanz und farbe led) wird nur versendet, wenn led's farbe ändern oder ein unterschied der distanz von 0.2 m gemessen wird
 + die entfernungen für die ampelfarben muss eingestellt werden
++ die wifi angaben eingeben !
 ```
 die farben sind leider durch die kamera nicht gut zu erkennen :-(
 
