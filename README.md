@@ -10,7 +10,7 @@
 ```diff
 + die meisten hier erwähnten settings sind unter substitutions einzustellen
 + led's werden nach definierter zeit abgeschalten
-+ mqtt wird nur versendet, wenn led's farbe ändern
++ mqtt (distanz und farbe led) wird nur versendet, wenn led's farbe ändern oder ein unterschied der distanz von 0.2 m gemessen wird
 + die entfernungen für die ampelfarben muss eingestellt werden
 ```
 die farben sind leider durch die kamera nicht gut zu erkennen :-(
