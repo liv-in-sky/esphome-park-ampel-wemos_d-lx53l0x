@@ -5,3 +5,11 @@
 - gebraucht wird ein wemos d1
 - der entfernungsmesser ist ein **vl53l0x** sensor - es müßte auch für sr04 nutzbar sein 
 - wird in iobroker genutzt und sendet mqtt daten (daher universelleinsetzbar
+
+**wie funktioniert's ?:**
+```diff
++ die meisten hier erwähnten settings sind unter substitutions einzustellen
++ led's werden nach definierter zeit abgeschalten
++ mqtt wird nur versendet, wenn led's farbe ändern
++ die entfernungen für jede ampelfarbe muss eingestellt werden
+```
