@@ -17,7 +17,7 @@ esphome:
 wifi:
   ssid: "yyyyyyyyyyyyy"
   password: "xxxxxxxxxxxx"
-  use_address: 192.168.178.64
+  use_address: 10.10.10.10
 
 # enable logging
 logger:
@@ -30,8 +30,8 @@ api:
 ota:
 
 mqtt:
-  broker: 192.168.178.59
-  port: 1506
+  broker: 10.10.10.11
+  port: 1883
   discovery: false      # damit nicht dauernd Sensor Werte übertragen werden
   
 i2c:
