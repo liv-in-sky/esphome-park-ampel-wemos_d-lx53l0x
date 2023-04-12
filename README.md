@@ -1,5 +1,8 @@
 # esphome-park-ampel-wemos_d1
 
+
+auf youtube: https://www.youtube.com/shorts/nFh81V3uW6I
+
 - hierbei handelt es sich um eine einparkhilfe (park hilfe/parking assistent) durch entfernungsmessung
 - die anzeige folgt über 3 leds oder einem **ws2812b** led-stripe (6 leds)
 - gebraucht wird ein wemos d1
